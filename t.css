@@ -1,0 +1,8 @@
+table{border-collapse:collapse; }
+th,td{padding:20px;width:200px;}
+.r{color:red;}
+th{color:blue;}
+tr:hover{background-color:gray;}
+tr:nth-child(even){background-color:gray;color:white;}
+tr:nth-child(odd){background-color:black;color:white;}
+.t{color:black;background-color:yellow;}
